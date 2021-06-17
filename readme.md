@@ -1,16 +1,14 @@
 ## Games Academy Computer Advice ##
 
-This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
+We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. Please be aware due to a shortage of semiconductors, GPUs are in short supply, and this has massively affected computer pricing. This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
 
+We have separated our computer recommendations by course, which you will find below. 
 
-
-#### Game Development, Game Art, Computing for Games, Immersive Computing and Creative Virtual Reality
+### Game Development, Game Art, Computing for Games, Immersive Computing and Creative Virtual Reality
 
 
 
 ### Computer Scienence, Web Development and Robotics
-
-However, we anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. Please be aware due to a shortage of semiconductors, GPU’s are in short supply, as a result you should anticipate a cost of approximately £650 for everything minus the GPU. 
 
 **Desktop PC Specifications**
 
