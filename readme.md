@@ -6,7 +6,7 @@ We anticipate that you may wish to purchase a new computer to see you through yo
 
 We have separated our computer recommendations by course, which you will find below.
 
-We have also provided links to some pre-build PC's as this is one method of avoiding aditional costs due to the semiconductor shortage. The specs of these machines is generally what we would recommend for a PC and you are welcome to find the parts individually.
+We have also provided links to some pre-built PCs as this is one method of avoiding additional costs due to the semiconductor shortage. The specs of these machines is generally what we would recommend for a PC and you are welcome to find the parts individually, or look at alternative pre-build retailers.
 
 ## Game Development, Game Art, Computing for Games, Immersive Computing and Creative Virtual Reality
 
@@ -23,7 +23,7 @@ We have also provided links to some pre-build PC's as this is one method of avoi
 
 **Laptop PC Specifications**
 
-Alternatively, you can look into laptops in order to get around the GPU shortage. For laptops you should anticipate a cost of approximately £1500.
+Alternatively, you can look into laptops in order to get around the GPU shortage. For laptops you should anticipate a cost of approximately £1500. Here are a few laptops we've identified as being particularly good value: 
 
 [Reign Nomad Pro](https://www.novatech.co.uk/laptop/range/reignnomadpro.html) £1399.00
 
@@ -33,7 +33,7 @@ Alternatively, you can look into laptops in order to get around the GPU shortage
 * SSD Storage: WD Blue SN550 1TB NVME
 * Operating System: Windows 10 Home Pre-installed
 
-[AORUS 15G-KC 15.6" Gaming Laptop](https://www.amazon.co.uk/AORUS-15G-KC-i7-10870H-GeForce-Windows/dp/B08V21BPPJ/ref=sr_1_13?dchild=1&keywords=laptop&qid=1623943664&refinements=p_36%3A-150000&rnid=9708204031&sr=8-13) £1,499.97
+[AORUS 15G-KC 15.6" Gaming Laptop](https://www.amazon.co.uk/AORUS-15G-KC-i7-10870H-GeForce-Windows/dp/B08V21BPPJ/) £1,499.97
 
 * Processor: Intel Core i7-10870H
 * Graphics Card: NVIDIA GeForce RTX 3060 GDDR6 6GB
@@ -62,8 +62,8 @@ Alternatively, you can look into laptops in order to get around the GPU shortage
 * Storage: 256GB SSD (512GB preferred) with additional (1TB HDD for storage, preferred)
 * Peripherals: Mouse
 
-### Or you could follow these links as these Laptops should work for you.
-[Acer Nitro 5 AN515-44 15.6 Inch Gaming Laptop](https://www.amazon.co.uk/dp/B089BM56BH/ref=cm_sw_em_r_mt_dp_1WNHKPW3REFBBN5VM7KR) £749.99
+### Here are a few laptops we've identified as being particularly good value: 
+[Acer Nitro 5 AN515-44 15.6 Inch Gaming Laptop](https://www.amazon.co.uk/dp/B089BM56BH/) £749.99
 
 * AMD Ryzen 5 4600H
 * 8GB RAM
@@ -71,7 +71,7 @@ Alternatively, you can look into laptops in order to get around the GPU shortage
 * NVIDIA GTX 1650Ti
 * Windows 10
 
-[ASUS TUF 17 FX706LI Gaming Laptop](https://www.amazon.co.uk/dp/B08CMPLXD3/ref=cm_sw_em_r_mt_dp_3QQA9ZEXS6GJQN5FASBP) £749.99
+[ASUS TUF 17 FX706LI Gaming Laptop](https://www.amazon.co.uk/dp/B08CMPLXD3/) £749.99
 
 * Intel i5-10300H
 * Nvidia GeForce GTX 1650Ti
