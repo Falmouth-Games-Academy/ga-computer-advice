@@ -1,5 +1,7 @@
 ## Games Academy Computer Advice ##
 
+**Last updated on 18-06-2021**
+
 We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. Please be aware due to a shortage of semiconductors, GPUs are in short supply, and this has massively affected computer pricing. This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
 
 ### So please take into account that the prices for these specs may vary **A LOT!!**
