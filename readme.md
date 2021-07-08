@@ -44,7 +44,7 @@ Alternatively, you can look into laptops in order to get around the GPU shortage
 * Operating System: Windows 10 Home
 
 
-## Computer Scienence, Web Development and Robotics
+## Computer Science, Web Development and Robotics
 
 **Desktop PC Specifications**
 
