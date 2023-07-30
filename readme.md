@@ -55,7 +55,7 @@ Alternatively, you can look into laptops for more portability. For laptops you s
 
 **Laptop PC Specifications**
 
-[ACER Nitro 5 15.6" Gaming Laptop]([https://www.currys.co.uk/products/msi-katana-gf66-15.6-gaming-laptop-intel-core-i7-rtx-3060-512-gb-ssd-10230338.html](https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-3060-512-gb-ssd-10238558.html)) £899.00
+[ACER Nitro 5 15.6" Gaming Laptop](https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-3060-512-gb-ssd-10238558.html) £899.00
 
 * Processor: Intel® Core™ i7-12700H  
 * Memory: 16 GB 
