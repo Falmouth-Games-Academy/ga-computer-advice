@@ -1,6 +1,6 @@
 ## Games Academy Computer Advice ##
 
-**Last updated on 15-06-2023**
+**Last updated on 30-07-2023**
 
 We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. Although there was a shortage on GPUs in the last couple of years, this seems to be levelling out and prices are starting to come down again. This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
 
@@ -55,13 +55,13 @@ Alternatively, you can look into laptops for more portability. For laptops you s
 
 **Laptop PC Specifications**
 
-[MSI Katana GF66 15.6" Gaming Laptop](https://www.currys.co.uk/products/msi-katana-gf66-15.6-gaming-laptop-intel-core-i7-rtx-3060-512-gb-ssd-10230338.html) £944.00
+[ACER Nitro 5 15.6" Gaming Laptop]([https://www.currys.co.uk/products/msi-katana-gf66-15.6-gaming-laptop-intel-core-i7-rtx-3060-512-gb-ssd-10230338.html](https://www.currys.co.uk/products/acer-nitro-5-15.6-gaming-laptop-intel-core-i7-rtx-3060-512-gb-ssd-10238558.html)) £899.00
 
-* Processor: Intel® Core™ i7-11800H 
-* Memory: 16 GB DDR4 (3200MHz)
+* Processor: Intel® Core™ i7-12700H  
+* Memory: 16 GB 
 * Graphics: NVIDIA GeForce RTX 3060 6gb
-* Storage: 512 GB PCIe SSD
-* Operating System: Windows 10
+* Storage: 512 GB
+* Operating System: Windows 11
 
 
 ## Esports - Storage
