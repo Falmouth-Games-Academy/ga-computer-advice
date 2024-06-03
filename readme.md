@@ -4,6 +4,8 @@
 
 We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. Although there was a shortage on GPUs in the last couple of years, this seems to be levelling out and prices are starting to come down again. This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
 
+Although we have facilities with up to spec PC's available on campus having a personal computer can be helpful for work done from home or when facilties are in high demand.
+
 ### So please take into account that the prices for these specs may vary **A LOT!!**
 
 We have separated our computer recommendations by course, which you will find below.
@@ -12,34 +14,28 @@ We have provided links to some pre-built PCs. The specs of these machines are ge
 
 ## Game Development, Game Animation, Game Art, Computing for Games and Immersive Computing
 
-**Desktop PC Specifications**
-
-[OcUK Gaming Karambit](https://www.overclockers.co.uk/ocuk-gaming-karambit-intel-core-i7-12700f-geforce-rtx-4060-ti-gaming-pc-fs-1f6-og.html?group=215cc2af-bf6d-5c06-8b4d-d998eb27b25f-648b03ad37ab70.66148921) £1304.99
-
-* Processor: Intel Core i5-14600KF
-* Graphics Card: NVIDIA GeForce 4060Ti 8GB GDDR6
-* Memory: 16GB DDDR4 3600MHz
-* Main Storage: WD Black SN770 1TB SSD M.2 2280 NVME
-* Secondary Storage: WD Blue SN580 1TB SSD NVME M.2 2280 
+**PC Specifications**
+* Rough price range: £1300-£1500
+* Processor: 14th gen Intel Core i5-14600KF
+* Graphics Card: NVIDIA GeForce 3060Ti
+* Memory: 16GB - 32GB DDDR4
+* Main Storage: 1tb or higher m.2 nvme storage
+* Secondary Storage: 1tb or higher sata ssd storage
 * Operating System: Windows 11
 
-[AlphaSync 4000D](https://www.ebuyer.com/1838413-alphasync-4000d-intel-core-i5-13400f-gaming-pc-nvidia-rtx-4060-ti-16gb-as-d6830) £1329.99
+*Examples*
 
-* Processor: 13th Gen Intel® Core™ i5-13400F
-* Graphics Card: NVIDIA GeForce RTX 4060 Ti
-* Memory: 16GB Corsair Vengeance RGB Pro 3200MHz
-* Storage: Samsung 980 PRO V-NAND M.2 1TB
-* Operating system: Windows 11
-
-**Laptop PC Specifications**
+*Laptop Examples*
 
 Alternatively, you can look into laptops for more portability. For laptops you should anticipate a cost of approximately £1500. Here are a few laptops we've identified as being particularly good value: 
 
-[MSI Katana GF76](https://www.overclockers.co.uk/msi-katana-gf76-nvidia-rtx-3070-16gb-17.3-fhd-144hz-intel-i7-12700h-gaming-laptop-lt-2ff-ms.html) £1499.99
-* Processor: Intel® Core™ i7-12700H
-* Graphics: NVIDIA® GeForce® RTX 3070 8GB GDDR6
-* Storage: 1TB NVMe M.2
-* Operating Sytem: Windows 11
+* Rough price range: £1500-£1800
+* Processor: 14th gen Intel Core i5-14600KF
+* Graphics Card: NVIDIA GeForce 3060Ti
+* Memory: 16GB - 32GB DDDR4
+* Main Storage: 1tb or higher m.2 nvme storage
+* Secondary Storage: 1tb or higher sata ssd storage
+* Operating System: Windows 11
 
 ## Computer Science, Robotics and Esports
 
@@ -48,7 +44,7 @@ Alternatively, you can look into laptops for more portability. For laptops you s
 [OcUK Gaming Pyrite Gaming PC](https://www.overclockers.co.uk/ocuk-gaming-pyrite-gaming-pc-intel-core-i5-11400f-nvidia-rtx-3060-gaming-pc-fs-1eh-og.html?group=2736f811-36ad-59f8-8055-abd44a79929a-648b0b12eab743.50399515) £1,001.95
 
 * Processor: Intel Core i5 11400F
-* Memory: 16GB (2x8GB) Lexar Hades DDR4 3600MHz
+* Memory: 16GB - 32GB DDDR4
 * Storage: Seagate 1TB 7200RPM Hard Drive
 * Graphics: Nvidia GeForce RTX 3060 12GB GDDR6
 * Operating System: Windows 11
