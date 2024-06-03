@@ -14,13 +14,13 @@ We have provided links to some pre-built PCs. The specs of these machines are ge
 
 **Desktop PC Specifications**
 
-[OcUK Gaming Karambit](https://www.overclockers.co.uk/ocuk-gaming-karambit-intel-core-i7-12700f-geforce-rtx-4060-ti-gaming-pc-fs-1f6-og.html?group=215cc2af-bf6d-5c06-8b4d-d998eb27b25f-648b03ad37ab70.66148921) £1529.99
+[OcUK Gaming Karambit](https://www.overclockers.co.uk/ocuk-gaming-karambit-intel-core-i7-12700f-geforce-rtx-4060-ti-gaming-pc-fs-1f6-og.html?group=215cc2af-bf6d-5c06-8b4d-d998eb27b25f-648b03ad37ab70.66148921) £1304.99
 
-* Processor: 12th Gen Intel® Core™ i7-12700F
+* Processor: Intel Core i5-14600KF
 * Graphics Card: NVIDIA GeForce 4060Ti 8GB GDDR6
 * Memory: 16GB DDDR4 3600MHz
-* Main Storage: WD Black SN770 1TB SSD M.2 2280 NVME PCI-E Gen4 Solid State Drive (WDS100T3X0E)
-* Secondary Storage: WD Blue SA510 1TB SSD 2.5" SATA Solid State Drive (WDS100T3B0A)
+* Main Storage: WD Black SN770 1TB SSD M.2 2280 NVME
+* Secondary Storage: WD Blue SN580 1TB SSD NVME M.2 2280 
 * Operating System: Windows 11
 
 [AlphaSync 4000D](https://www.ebuyer.com/1838413-alphasync-4000d-intel-core-i5-13400f-gaming-pc-nvidia-rtx-4060-ti-16gb-as-d6830) £1329.99
