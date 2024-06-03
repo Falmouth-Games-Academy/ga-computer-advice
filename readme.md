@@ -23,8 +23,6 @@ We have provided links to some pre-built PCs. The specs of these machines are ge
 * Secondary Storage: 1tb or higher sata ssd storage
 * Operating System: Windows 11
 
-*Examples*
-
 *Laptop Examples*
 
 Alternatively, you can look into laptops for more portability. For laptops you should anticipate a cost of approximately £1500. Here are a few laptops we've identified as being particularly good value: 
