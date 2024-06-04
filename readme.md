@@ -74,7 +74,7 @@ Our robotics students often purchase a second-hand cheap laptop to run linux on 
 
 ## Esports - Storage
 
-As mentioned in the welcome letter, we highly recommend students purchase an external solid state drive for transferring the large video content that you will be working with on the course. Here are two recommendations. 
+We highly recommend students purchase an external solid state drive for transferring the large video content that you will be working with on the course. Here are two recommendations. 
 
 * [Crucial X6 - 1TB](https://www.amazon.co.uk/Crucial-CT2000X6SSD9-X6-Portable-SSD/dp/B08FSZT2J7/) 
 * [Crucial X6 - 2TB](https://www.amazon.co.uk/Crucial-CT2000X6SSD9-X6-Portable-SSD/dp/B08FSNKNSV/)
