@@ -6,9 +6,9 @@
 
 We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
 
-Depending on your needs you may prefer a desktop or a laptops. We often find our students prefer a laptop due to the portability. Although laptops tend to be more expensive they do not need additional peripherals.
+Depending on your needs you may prefer a desktop or a laptop. We often find our students prefer a laptop due to the portability. Although laptops tend to be more expensive, they do not need additional peripherals.
 
-Although we have facilities with up to spec PC's available on campus having a personal computer can be helpful for work done from home or when facilities are in high demand.
+Although we have facilities with up to spec PCs available on campus, having a personal computer can be helpful for work done from home or when facilities are in high demand.
 We have separated our computer recommendations by course, which you will find below.
 
 In the following document we provide a rough recommended specification and price range, as well as a list of recommended retailers. 
@@ -36,7 +36,7 @@ For these courses we recommend a computer that has plenty of power, as students 
 **Desktop Specifications**
 * Rough price range: £1300-£1500
 * Processor: 14th gen Intel Core i5-14600KF
-* Graphics Card: NVIDIA GeForce 3060Ti / NVIDIA GeForce 4070
+* Graphics Card: NVIDIA GeForce 3060Ti - NVIDIA GeForce 4070
 * Memory: 16GB - 32GB DDDR4/DDR5
 * Main Storage: 1TB or higher m.2 nvme storage
 * Secondary Storage: 1TB or higher sata ssd storage
@@ -70,7 +70,7 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Storage: 512 GB HDD or SSD
 * Operating System: Windows 11
 
-Our robotics students often purchase a second hand cheap laptop to run linux on for some of their work. This is in addition to a powerful machine for more complex tasks.
+Our robotics students often purchase a second-hand cheap laptop to run linux on for some of their work. This is in addition to a powerful machine for more complex tasks.
 
 ## Esports - Storage
 
