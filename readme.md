@@ -50,7 +50,7 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Main Storage: 1TB or higher m.2 nvme storage
 * Operating System: Windows 11
 
-## Computer Science, Robotics and Esports
+## Computer Science and Esports
 
 **Desktop Specifications**
 
@@ -70,7 +70,18 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Storage: 512 GB HDD or SSD
 * Operating System: Windows 11
 
-Our robotics students often purchase a second-hand cheap laptop to run linux on for some of their work. This is in addition to a powerful machine for more complex tasks.
+## Robotics
+
+**Laptop Specifications**
+
+* Rough price range: £500-£700
+* Processor: Intel Core i5-1335U
+* Memory: 8GB DDDR4
+* Graphics: Intel Integrated Graphics
+* Storage: 512 GB HDD or SSD
+* Operating System: Windows 11
+
+Our robotics students often purchase a laptop focussing on portability and battery life due to the mobile nature of the course. A desktop PC is not advised.
 
 ## Esports - Storage
 
