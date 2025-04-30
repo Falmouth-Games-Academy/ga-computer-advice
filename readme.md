@@ -50,7 +50,7 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Main Storage: 1TB or higher m.2 nvme storage
 * Operating System: Windows 11
 
-## Computer Science and Esports
+## Computer Science, Software Engineering and Esports
 
 **Desktop Specifications**
 
