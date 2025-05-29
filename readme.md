@@ -35,8 +35,8 @@ For these courses we recommend a computer that has plenty of power, as students 
 **Desktop Specifications**
 
 * Rough price range: £1300-£1500
-* Processor: 14th gen Intel Core i5-14600KF
-* Graphics Card: NVIDIA GeForce 3060Ti - NVIDIA GeForce 4070
+* Processor: 14th gen Intel Core i5-14600KF or AMD Ryzen 5 7600X / 7700
+* Graphics Card: NVIDIA GeForce 4070 or AMD Radeon RX 7800 XT
 * Memory: 16GB - 32GB DDDR4/DDR5
 * Main Storage: 1TB or higher m.2 nvme storage
 * Secondary Storage: 1TB or higher sata ssd storage
@@ -45,8 +45,8 @@ For these courses we recommend a computer that has plenty of power, as students 
 **Laptop Specifications**
 
 * Rough price range: £1500-£1800
-* Processor: 13th gen Intel Core i7-13700HX
-* Graphics Card: NVIDIA GeForce 3060Ti / NVIDIA GeForce 4070
+* Processor: 14th gen Intel Core i9-14900HX or AMD Ryzen 9 7945HX3D
+* Graphics Card: NVIDIA GeForce 4070 / NVIDIA GeForce 4080
 * Memory: 16GB - 32GB DDDR4/DDR5
 * Main Storage: 1TB or higher m.2 nvme storage
 * Operating System: Windows 11
@@ -57,18 +57,18 @@ The courses above can involve resource intensive workflows but generally wont re
 **Desktop Specifications**
 
 * Rough price range: £900-£1100
-* Processor: Intel Core i5 14400F
+* Processor: Intel Core i5-14600KF or AMD Ryzen 5 7600X
 * Memory: 16GB DDDR4
 * Storage: 1TB SSD or HDD
-* Graphics: Nvidia GeForce RTX 3060
+* Graphics: NVIDIA GeForce 4060 Ti	or AMD RX 6750 XT / RX 7700 XT
 * Operating System: Windows 11
 
 **Laptop Specifications**
 
 * Rough price range: £1000-£1200
-* Processor: Intel Core i5-12450H
+* Processor: Intel Core i5-13420H / i5-13500H	or AMD Ryzen 5 7535HS / 7640HS
 * Memory: 16GB DDDR4
-* Graphics: NVIDIA GeForce RTX 3060
+* Graphics: NVIDIA GeForce RTX 4060 or AMD RX 7600S
 * Storage: 512 GB HDD or SSD
 * Operating System: Windows 11
 
@@ -78,7 +78,7 @@ This course does not require high specs due to the nature of working with embedd
 **Laptop Specifications**
 
 * Rough price range: £500-£700
-* Processor: Intel Core i5-1335U
+* Processor: Intel Core i5-1345U / 1355U	or AMD Ryzen 5 7540U / 7735U
 * Memory: 8GB DDDR4
 * Graphics: Intel Integrated Graphics
 * Storage: 512 GB HDD or SSD
