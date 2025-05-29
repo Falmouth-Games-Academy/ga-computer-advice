@@ -1,8 +1,6 @@
-
-
 ## Games Academy Computer Advice ##
 
-**Last updated on 04-06-2024**
+**Last updated on 29-05-2025**
 
 We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
 
@@ -11,9 +9,10 @@ Depending on your needs you may prefer a desktop or a laptop. We often find our 
 Although we have facilities with up to spec PCs available on campus, having a personal computer can be helpful for work done from home or when facilities are in high demand.
 We have separated our computer recommendations by course, which you will find below.
 
-In the following document we provide a rough recommended specification and price range, as well as a list of recommended retailers. 
+In the following document we provide a rough recommended specification and price range, as well as a list of recommended retailers. The parts recommendations we provide take into account latest gen hardware to ensure the longevity of the system you build. However, it is worth noting that looking at older gen hardware can be an easy way to keep costs down without a huge decrease in performance. 
 
 # Recommended retailers #
+You can purchase complete systems or parts from retailers. The websites below are recommendations from us for buying parts as traditionally building a pc from scratch is much cheaper than buying a prebuilt system.
 
 * [Overclockers](https://www.overclockers.co.uk/)
 * [Currys](https://www.currys.co.uk)
@@ -31,9 +30,10 @@ In the following document we provide a rough recommended specification and price
 
 ## Game Development, Game Animation, Game Art, Computing for Games and Immersive Computing
 
-For these courses we recommend a computer that has plenty of power, as students will be working on or with complex 3D assets.
+For these courses we recommend a computer that has plenty of power, as students will be working on or with complex 3D assets and game engines, which are notoriously resource heavy.
 
 **Desktop Specifications**
+
 * Rough price range: £1300-£1500
 * Processor: 14th gen Intel Core i5-14600KF
 * Graphics Card: NVIDIA GeForce 3060Ti - NVIDIA GeForce 4070
@@ -43,6 +43,7 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Operating System: Windows 11
 
 **Laptop Specifications**
+
 * Rough price range: £1500-£1800
 * Processor: 13th gen Intel Core i7-13700HX
 * Graphics Card: NVIDIA GeForce 3060Ti / NVIDIA GeForce 4070
@@ -51,6 +52,7 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Operating System: Windows 11
 
 ## Computer Science, Software Engineering and Esports
+The courses above can involve resource intensive workflows but generally wont require the most 'beefy' of specs to provide a seemless experience. If you are an esports student please look below for recommendations on external storage mediums, these are recommended due to the large storage size of video files.
 
 **Desktop Specifications**
 
@@ -71,6 +73,7 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Operating System: Windows 11
 
 ## Robotics
+This course does not require high specs due to the nature of working with embedded systems. Further to this, our robotics students often prefer purchasing a laptop, focusing on portability and battery life due to the mobile nature of the course. A desktop PC is not advised.
 
 **Laptop Specifications**
 
@@ -81,12 +84,11 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Storage: 512 GB HDD or SSD
 * Operating System: Windows 11
 
-Our robotics students often purchase a laptop focussing on portability and battery life due to the mobile nature of the course. A desktop PC is not advised.
 
 ## Esports - Storage
 
 We highly recommend students purchase an external solid state drive for transferring the large video content that you will be working with on the course. Here are two recommendations. 
 
-* [Crucial X6 - 1TB](https://www.amazon.co.uk/Crucial-CT2000X6SSD9-X6-Portable-SSD/dp/B08FSZT2J7/) 
-* [Crucial X6 - 2TB](https://www.amazon.co.uk/Crucial-CT2000X6SSD9-X6-Portable-SSD/dp/B08FSNKNSV/)
+* [Crucial X9 - 1TB](https://www.amazon.co.uk/Crucial-Portable-External-USB-Adapter/dp/B0CJK6RJG3?th=1) 
+* [Crucial X9 - 2TB]([https://www.amazon.co.uk/Crucial-CT2000X6SSD9-X6-Portable-SSD/dp/B08FSNKNSV/](https://www.amazon.co.uk/Crucial-Portable-External-USB-Adapter/dp/B0CJK6PL7X?th=1))
 
