@@ -33,21 +33,26 @@ For these courses we recommend a computer that has plenty of power, as students 
 
 **Recommended Desktop Specifications**
 
-* Rough price range: £1300-£1500
-* Processor: 14th gen Intel Core i5-14600KF or AMD Ryzen 5 7600X / 7700
-* Graphics Card: NVIDIA GeForce 4070 or AMD Radeon RX 7800 XT
+* Rough price range: £1380-£2000
+* Processor: 14th gen Intel Core i5-14400 or AMD Ryzen 5 7500F/8400F
+* Graphics Card: NVIDIA GeForce 5070 or AMD Radeon RX 9070
 * Memory: 16GB - 32GB DDDR4/DDR5
 * Main Storage: 1TB or higher m.2 nvme storage
 * Secondary Storage: 1TB or higher sata ssd storage
 * Operating System: Windows 11
 
+**Minimum Desktop Specifications**
+
+
+
 **Recommended Laptop Specifications**
 
-* Rough price range: £1500-£1800
-* Processor: 14th gen Intel Core i9-14900HX or AMD Ryzen 9 7945HX3D
-* Graphics Card: NVIDIA GeForce 4070 / NVIDIA GeForce 4080
+* Rough price range: £1600-£2000
+* Processor: 14th gen Intel Core i7-14700HX or AMD Ryzen 9 7945HX3D
+* Graphics Card: NVIDIA GeForce 5070
 * Memory: 16GB - 32GB DDDR4/DDR5
 * Main Storage: 1TB or higher m.2 nvme storage
 * Operating System: Windows 11
 
+**Minimum Laptop Specifications**
 
