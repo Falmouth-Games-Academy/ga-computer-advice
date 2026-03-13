@@ -31,12 +31,12 @@ You can purchase complete systems or parts from retailers. The websites below ar
 
 For these courses we recommend a computer that has plenty of power, as students will be working on or with complex 3D assets and game engines, which are notoriously resource heavy.
 
-Please note, if you want to limit the costs, we recommend that you purchase the minimum spec desktop. You can then upgrade components at a later date e.g. swap in a more powerful graphics card in the final year of your studies
+**Please note, if you want to limit the costs, we recommend that you purchase the minimum spec desktop. You can then upgrade components at a later date e.g. swap in a more powerful graphics card in the final year of your studies.**
 
 **Recommended Desktop Specifications**
 
-* Rough price range: £1380-£2000
-* Processor: 14th gen Intel Core i5-14400 or AMD Ryzen 5 7500F/8400F
+* Rough price range: £1380 - £2000
+* Processor: 14th gen Intel Core i5-14400F or AMD Ryzen 5 7500F/8400F
 * Graphics Card: NVIDIA GeForce 5070 or AMD Radeon RX 9070
 * Memory: 16GB - 32GB DDDR4/DDR5
 * Main Storage: 1TB or higher m.2 nvme storage
@@ -45,10 +45,10 @@ Please note, if you want to limit the costs, we recommend that you purchase the 
 
 **Minimum Desktop Specifications**
 
-* Rough price range: 
-* Processor: 
+* Rough price range: £1100 - £1300
+* Processor: 14th gen Intel Core i5-14400F or AMD Ryzen 5 7500F/8400F
 * Graphics Card: NVIDIA GeForce 5060 or AMD Radeon RX 9070
-* Memory: 16GB - 32GB DDDR4/DDR5
+* Memory: 16GB DDDR4/DDR5
 * Main Storage: 1TB or higher m.2 nvme storage
 * Operating System: Windows 11
 
@@ -64,8 +64,8 @@ Please note, if you want to limit the costs, we recommend that you purchase the 
 **Minimum Laptop Specifications**
 
 * Rough price range: £1600-£2000
-* Processor: 
+* Processor: AMD Ryzen 7 260
 * Graphics Card: NVIDIA GeForce 5060
-* Memory: 16GB - 32GB DDDR4/DDR5
+* Memory: 16GB
 * Main Storage: 1TB or higher m.2 nvme storage
 * Operating System: Windows 11
