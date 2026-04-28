@@ -11,8 +11,9 @@ We have separated our computer recommendations by course, which you will find be
 
 In the following document we provide a rough recommended specification and price range, as well as a list of recommended retailers. The parts recommendations we provide take into account latest gen hardware to ensure the longevity of the system you build. However, it is worth noting that looking at older gen hardware can be an easy way to keep costs down without a huge decrease in performance. 
 
-# RAM price warning #
-As of April 2026, DDR5 RAM is experiencing a significant price spike driven by high demand from AI infrastructure. Prices have risen by over 3x since late 2025 and analysts expect the shortage to persist until at least late 2027. As a result, we are recommending 16GB DDR5 as a starting point rather than 32GB in our desktop builds. We strongly recommend upgrading to 32GB when prices normalise, as 32GB is the more comfortable amount for the software used on these courses.
+# Ram and storage price warning #
+As of writing there is a shortage of Ram(memory) and storage parts for PC's. This has led to a large hike in prices that could last for months or years depending on the market. As a result buying a pc parts or a prebuilt has become more expencive.
+We will try best to make suggestions that are within the normal budget but there will be some sacrafices to the usability of the device in the long term.
 
 # Recommended retailers #
 You can purchase complete systems or parts from retailers. The websites below are recommendations from us for buying parts as traditionally building a pc from scratch is usually much cheaper than buying a prebuilt system.
@@ -45,24 +46,16 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Secondary Storage: 1TB or higher SATA SSD
 * Operating System: Windows 11
 
-**Example links** *(added 27-04-2026)*:
-*These links were correct when added but may be out of date. Prebuilt prices change frequently — always verify current pricing before purchasing.*
-* [RTX 5070 Gaming PCs — Scan UK](https://www.scan.co.uk/shop/computer-hardware/gaming-pcs/geforce-rtx-5070-gaming-pc)
-* [RTX 5070 Gaming PCs — Overclockers UK](https://www.overclockers.co.uk/pc-systems/gaming-pcs/nvidia-gaming-pcs/rtx-5070-gaming-pcs)
 
 **Laptop Specifications**
 
 * Rough price range: £1500-£1800
-* Processor: Intel Core Ultra 9 or AMD Ryzen AI 9 HX 370
+* Processor: Intel Core Ultra 7 265H or AMD Ryzen AI 9 HX 370
 * Graphics Card: NVIDIA GeForce RTX 5070 (RTX 5070 Ti achievable at the upper end of the budget)
 * Memory: 16GB DDR5 (32GB is ideal but will push the budget due to current RAM prices — see warning above)
 * Main Storage: 1TB or higher M.2 NVMe SSD
 * Operating System: Windows 11
 
-**Example links** *(added 27-04-2026)*:
-*These links were correct when added but may be out of date. Prebuilt prices change frequently — always verify current pricing before purchasing.*
-* [RTX 5070 Gaming Laptops — Scan UK](https://www.scan.co.uk/shop/computer-hardware/gaming-laptops/geforce-rtx-5070-gaming-laptops)
-* [RTX 5070 Gaming Laptops — Overclockers UK](https://www.overclockers.co.uk/laptops/gaming-laptops/nvidia-gaming-laptops/nvidia-rtx-5070-gaming-laptops)
 
 ## Computer Science, Software Engineering and Esports
 The courses above can involve resource intensive workflows but generally wont require the most 'beefy' of specs to provide a seemless experience. If you are an esports student please look below for recommendations on external storage mediums, these are recommended due to the large storage size of video files.
@@ -73,13 +66,9 @@ The courses above can involve resource intensive workflows but generally wont re
 * Processor: AMD Ryzen 5 9600X or Intel Core Ultra 5 245K
 * Memory: 16GB DDR5 (see RAM warning above)
 * Storage: 1TB M.2 NVMe SSD
-* Graphics: NVIDIA GeForce RTX 5060 Ti or AMD Radeon RX 9060 XT
+* Graphics: NVIDIA GeForce RTX 5060 or AMD Radeon RX 9060 XT (the RTX 5060 Ti is preferred if you can find a model within budget — look for models under £400)
 * Operating System: Windows 11
 
-**Example links** *(added 27-04-2026)*:
-*These links were correct when added but may be out of date. Prebuilt prices change frequently — always verify current pricing before purchasing.*
-* [OcUK Gaming Mach 2 — Ryzen 5 7500F / RTX 5060 Ti — Overclockers UK](https://www.overclockers.co.uk/ocuk-gaming-mach-2-ryzen-7500f-rtx-5060-ti-pre-built-gaming-pc-fs-pb15-ep.html)
-* [RTX 5060 Ti 16GB Mid-Range Gaming PCs — Scan UK](https://www.scan.co.uk/shop/computer-hardware/gaming-pcs/geforce-rtx-5060-ti-16gb-mid-range-gaming-pc)
 
 **Laptop Specifications**
 
@@ -89,11 +78,6 @@ The courses above can involve resource intensive workflows but generally wont re
 * Graphics: NVIDIA GeForce RTX 5060
 * Storage: 1TB M.2 NVMe SSD
 * Operating System: Windows 11
-
-**Example links** *(added 27-04-2026)*:
-*These links were correct when added but may be out of date. Prebuilt prices change frequently — always verify current pricing before purchasing.*
-* [RTX 5060 Gaming Laptops — Scan UK](https://www.scan.co.uk/shop/computer-hardware/gaming-laptops/geforce-rtx-5060-gaming-laptops)
-* [RTX 5060 Gaming Laptops — Overclockers UK](https://www.overclockers.co.uk/laptops/gaming-laptops/nvidia-gaming-laptops/nvidia-rtx-5060-gaming-laptops)
 
 ## Robotics
 This course does not require high specs due to the nature of working with embedded systems. Further to this, our robotics students often prefer purchasing a laptop, focusing on portability and battery life due to the mobile nature of the course. A desktop PC is not advised. Many robotics students will purchase second hand laptops and then install a linux distro on them.
@@ -107,16 +91,11 @@ This course does not require high specs due to the nature of working with embedd
 * Storage: 512GB SSD
 * Operating System: Windows 11
 
-**Example links** *(added 27-04-2026)*:
-*These links were correct when added but may be out of date. Prebuilt prices change frequently — always verify current pricing before purchasing.*
-* [Samsung Galaxy Book5 15.6" — Intel Core Ultra 5, 512GB SSD — Currys](https://www.currys.co.uk/products/samsung-galaxy-book5-15.6-laptop-intel-core-ultra-5-512-gb-ssd-grey-10294192.html)
-* [HP OmniBook 7 AI 14" — Intel Core Ultra 5, 512GB SSD — Currys](https://www.currys.co.uk/products/hp-omnibook-7-ai-14-laptop-intel-core-ultra-5-512-gb-ssd-silver-10282647.html)
-* [Intel Core Ultra 5 Laptops — Overclockers UK](https://www.overclockers.co.uk/laptops/intel-laptops/intel-core-ultra-5-laptops)
 
 ## Esports - Storage
 
 We highly recommend students purchase an external solid state drive for transferring the large video content that you will be working with on the course. Here are two recommendations. 
 
-* [Crucial X9 - 1TB](https://www.amazon.co.uk/Crucial-Portable-External-USB-Adapter/dp/B0CJK6RJG3?th=1) 
-* [Crucial X9 - 2TB]([https://www.amazon.co.uk/Crucial-CT2000X6SSD9-X6-Portable-SSD/dp/B08FSNKNSV/](https://www.amazon.co.uk/Crucial-Portable-External-USB-Adapter/dp/B0CJK6PL7X?th=1))
+* [Crucial X9 - 1TB](https://www.amazon.co.uk/Crucial-1TB-Portable-External-CT1000X9SSD902/dp/B0CGW1FQV4)
+* [Crucial X9 - 2TB](https://www.amazon.co.uk/Crucial-2TB-Portable-External-CT2000X9SSD902/dp/B0CGW18S6Y)
 
