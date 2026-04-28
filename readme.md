@@ -1,6 +1,6 @@
 ## Games Academy Computer Advice ##
 
-**Last updated on 13-03-2026**
+**Last updated on 27-04-2026**
 
 We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. This page will be updated to reflect our current buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
 
@@ -10,8 +10,12 @@ We have separated our computer recommendations by course, which you will find be
 
 In the following document we provide a rough recommended specification and price range, as well as a list of recommended retailers. The parts recommendations we provide take into account latest gen hardware to ensure the longevity of the system you build. However, it is worth noting that looking at older gen hardware can be an easy way to keep costs down without a huge decrease in performance. 
 
+# Ram and storage price warning #
+As of writing there is a shortage of Ram(memory) and storage parts for PC's. This has led to a large hike in prices that could last for months or years depending on the market. As a result buying a pc parts or a prebuilt has become more expencive.
+We will try best to make suggestions that are within the normal budget but there will be some sacrafices to the usability of the device in the long term.
+
 # Recommended retailers #
-You can purchase complete systems or parts from retailers. The websites below are recommendations from us for buying parts as traditionally building a pc from scratch is much cheaper than buying a prebuilt system.
+You can purchase complete systems or parts from retailers. The websites below are recommendations from us for buying parts as traditionally building a pc from scratch is usually much cheaper than buying a prebuilt system.
 
 * [Overclockers](https://www.overclockers.co.uk/)
 * [Currys](https://www.currys.co.uk)
@@ -36,36 +40,36 @@ For these courses we recommend a computer that has plenty of power, as students 
 **Recommended Desktop Specifications**
 
 * Rough price range: £1380 - £2000
-* Processor: 14th gen Intel Core i5-14400F or AMD Ryzen 5 7500F/8400F
-* Graphics Card: NVIDIA GeForce 5070 or AMD Radeon RX 9070
-* Memory: 16GB - 32GB DDDR4/DDR5
-* Main Storage: 1TB or higher m.2 nvme storage
-* Secondary Storage: 1TB or higher sata ssd storage
+* Processor: AMD Ryzen 5 9600X or Intel Core Ultra 5 245K
+* Graphics Card: NVIDIA GeForce RTX 5070 or AMD Radeon RX 9070
+* Memory: 16GB DDR5 (32GB is ideal but will push the budget due to current RAM prices — see warning above)
+* Main Storage: 1TB or higher M.2 NVMe SSD
+* Secondary Storage: 1TB or higher SATA SSD
 * Operating System: Windows 11
 
 **Minimum Desktop Specifications**
 
 * Rough price range: £1100 - £1300
-* Processor: 14th gen Intel Core i5-14400F or AMD Ryzen 5 7500F/8400F
-* Graphics Card: NVIDIA GeForce 5060 or AMD Radeon RX 9060 XT
-* Memory: 16GB DDDR4/DDR5
-* Main Storage: 1TB or higher m.2 nvme storage
+* Processor: AMD Ryzen 5 9600X or Intel Core Ultra 5 245K
+* Graphics Card: NVIDIA GeForce RTX 5060 Ti or AMD Radeon RX 9060 XT (RTX 5060 as fallback if Ti exceeds budget)
+* Memory: 16GB DDR5 (see RAM warning above)
+* Main Storage: 1TB or higher M.2 NVMe SSD
 * Operating System: Windows 11
 
 **Recommended Laptop Specifications**
 
 * Rough price range: £1600 - £2000
-* Processor: 14th gen Intel Core i7-14700HX or AMD Ryzen 9 7945HX3D
-* Graphics Card: NVIDIA GeForce 5070
-* Memory: 16GB - 32GB DDD4/DDR5
-* Main Storage: 1TB or higher m.2 nvme storage
+* Processor: Intel Core Ultra 7 265H or AMD Ryzen AI 9 HX 370
+* Graphics Card: NVIDIA GeForce RTX 5070
+* Memory: 16GB DDR5 (32GB is ideal but will push the budget due to current RAM prices — see warning above)
+* Main Storage: 1TB or higher M.2 NVMe SSD
 * Operating System: Windows 11
 
 **Minimum Laptop Specifications**
 
 * Rough price range: £1400 - £1600
-* Processor: AMD Ryzen 7 260
-* Graphics Card: NVIDIA GeForce 5060
-* Memory: 16GB DDR4/DDR5
-* Main Storage: 1TB or higher m.2 nvme storage
+* Processor: AMD Ryzen 7 260 or Intel Core Ultra 5 235H
+* Graphics Card: NVIDIA GeForce RTX 5060
+* Memory: 16GB DDR5 (see RAM warning above)
+* Main Storage: 1TB or higher M.2 NVMe SSD
 * Operating System: Windows 11
