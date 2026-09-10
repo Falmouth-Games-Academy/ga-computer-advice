@@ -1,5 +1,6 @@
 ## Games Academy Computer Advice ##
 
+
 **Last updated on 27-04-2026**
 
 We anticipate that you may wish to purchase a new computer to see you through your time at Falmouth University. This page will be updated to reflect our start of term buying advice for students enrolling on our undergraduate courses who wish to purchase a personal computer. 
