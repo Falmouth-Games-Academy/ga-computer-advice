@@ -49,14 +49,14 @@ For these courses we recommend a computer that has plenty of power, as students 
 * Rough price range: £1650-£1850
 * Processor: AMD Ryzen 5 9600X or Intel Core Ultra 5 245K (current generation)
 * Graphics Card: NVIDIA GeForce RTX 5070 or better
-* Memory: 16GB DDR5 (32GB is ideal but will push the budget up due to current RAM prices — see component price increases warning above)
+* Memory: 16GB DDR5 (32GB is ideal but will push the budget up due to current RAM prices - see component price increases warning above)
 * Main Storage: 1TB or higher M.2 NVMe SSD
 * Secondary Storage: 1TB or higher SATA SSD
 * Operating System: Windows 11
 
 **Budget Desktop Specifications (Older Generation)**
 
-This build uses older, partly secondhand parts instead of the newest hardware — a good way to keep costs down, but the secondhand graphics card won't come with a manufacturer's warranty, and won't have the same lifespan as a current-gen system if you want it to last well beyond graduation.
+This build uses older, partly secondhand parts instead of the newest hardware - a good way to keep costs down, but the secondhand graphics card won't come with a manufacturer's warranty, and won't have the same lifespan as a current-gen system if you want it to last well beyond graduation.
 
 * Rough price range: £900-£1100
 * Processor: AMD Ryzen 5 5600 or Intel Core i5-12400F (older generation)
@@ -71,12 +71,12 @@ This build uses older, partly secondhand parts instead of the newest hardware �
 * Rough price range: £1500-£1800
 * Processor: Intel Core Ultra 7 255HX or AMD Ryzen AI 9 HX 370 (current generation)
 * Graphics: NVIDIA GeForce RTX 5070 or better
-* Memory: 16GB DDR5 (32GB is ideal but will push the budget due to current RAM prices — see component price increases warning above)
+* Memory: 16GB DDR5 (32GB is ideal but will push the budget due to current RAM prices - see component price increases warning above)
 * Storage: 1TB or higher M.2 NVMe SSD
 * Operating System: Windows 11
 
 **Budget Laptop Specifications (Older Generation)**
-This build uses a previous-generation processor and graphics card instead of the newest hardware — a good way to keep costs down, with less headroom for the future than our main recommendation. We don't recommend xx60-tier cards for this course, they don't hold up as well for game development work, so this tier sits closer in price to our optimal laptop than the budget tiers elsewhere in this document.
+This build uses a previous-generation processor and graphics card instead of the newest hardware - a good way to keep costs down, with less headroom for the future than our main recommendation. We don't recommend xx60-tier cards for this course, they don't hold up as well for game development work, so this tier sits closer in price to our optimal laptop than the budget tiers elsewhere in this document.
 
 * Rough price range: £1100-£1450
 * Processor: Intel Core i7 (13th/14th Gen) or equivalent AMD Ryzen 7 (older generation)
@@ -99,7 +99,7 @@ The courses above can involve resource intensive workflows but generally won't r
 * Operating System: Windows 11
 
 **Budget Desktop Specifications (Older Generation)**
-This build uses older, partly secondhand parts instead of the newest hardware — a good way to keep costs down, but the secondhand graphics card won't come with a manufacturer's warranty, and won't have the same lifespan as a current-gen system if you want it to last well beyond graduation.
+This build uses older, partly secondhand parts instead of the newest hardware - a good way to keep costs down, but the secondhand graphics card won't come with a manufacturer's warranty, and won't have the same lifespan as a current-gen system if you want it to last well beyond graduation.
 
 * Rough price range: £750-£950
 * Processor: AMD Ryzen 5 5600 or Intel Core i5-12400F (older generation)
@@ -118,7 +118,7 @@ This build uses older, partly secondhand parts instead of the newest hardware �
 * Operating System: Windows 11
 
 **Budget Laptop Specifications (Older Generation)**
-This build uses an older-generation processor and entry-level discrete graphics instead of the newest hardware — a good way to keep costs down, with less headroom for the future than our main recommendation.
+This build uses an older-generation processor and entry-level discrete graphics instead of the newest hardware - a good way to keep costs down, with less headroom for the future than our main recommendation.
 
 * Rough price range: £650-£850
 * Processor: Intel Core i5-13420H or AMD Ryzen 5 7535HS (older generation)
